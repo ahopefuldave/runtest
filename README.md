@@ -1,2 +1,2 @@
 # runtest
-and hi hi hi
+and
