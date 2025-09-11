@@ -1,6 +1,3 @@
 # runtest
 a
 b
-c'
-
-
