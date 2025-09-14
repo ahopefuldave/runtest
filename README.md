@@ -1,3 +1,1 @@
 # runtest
-a
-b
