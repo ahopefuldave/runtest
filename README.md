@@ -1,2 +1,2 @@
 # runtest
-if thinsg goes wrong
+if things goes wrong
