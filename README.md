@@ -1,2 +1,2 @@
 # runtest
-if things goes wrong
+if things goes wrong dont put the blame on me
