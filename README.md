@@ -1,2 +1,2 @@
 # runtest
-iama thri
+if thinsg goes wrong
